@@ -183,7 +183,8 @@ containing a value of this type.
         public static final int ic_menu_delete=0x7f020005;
         public static final int ic_menu_save=0x7f020006;
         public static final int notelist=0x7f020007;
-        public static final int notetop=0x7f020008;
+        public static final int notepad_icon=0x7f020008;
+        public static final int notetop=0x7f020009;
     }
     public static final class id {
         public static final int body=0x7f07000c;

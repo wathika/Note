@@ -41,7 +41,8 @@ int drawable ic_launcher 0x7f020004
 int drawable ic_menu_delete 0x7f020005
 int drawable ic_menu_save 0x7f020006
 int drawable notelist 0x7f020007
-int drawable notetop 0x7f020008
+int drawable notepad_icon 0x7f020008
+int drawable notetop 0x7f020009
 int id body 0x7f07000c
 int id btmLayout 0x7f07000e
 int id date_row 0x7f070011
